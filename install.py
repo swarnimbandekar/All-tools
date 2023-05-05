@@ -1,10 +1,9 @@
 #!/usr/bin/python
 
 """
-Author             : Earning Premium
+Author             : Swarnim Bandekar
 contact            : swarnimbandekar9@gmail.com
-Github             : https://github.com/chintu3055
-my youtube channel : Earning Premium
+Github             : https://github.com/swarnimbandekar
 
 subcribe my youtube Channel to learn Termux ^_^
 """
